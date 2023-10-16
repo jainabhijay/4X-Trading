@@ -1,0 +1,2 @@
+Date,Time,Buy Price,File,Option Type,Sell Quantity 50% Gain,Sell Price 50% Gain,Exit Time 50% Gain,Sell Quantity 100% Gain,Sell Price 100% Gain,Exit Time 100% Gain,Sell Quantity 200% Gain,Sell Price 200% Gain,Exit Time 200% Gain,Closing Price,Closing Time,Sell Quantity at Close,Total PNL
+13/10/22,14:59:00,44.6,BANKNIFTY13OCT2238700PE.NFO_ohlc.csv,Call,25,64.1,13/10/22 15:00,13,98.85,13/10/22 15:01,12,116.85,13/10/22 15:03,76,13/10/22 15:30,0,2374.75
